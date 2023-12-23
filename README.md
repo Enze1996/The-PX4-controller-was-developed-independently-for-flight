@@ -7,6 +7,7 @@
    
 2. Simulink模型程序【px4_controller_demo】是一个基于PX4的UAV Toolbox进行PID控制器算法的自主设计的开发案例，可以进行代码生成上传至Pixhawk飞控测试。 
    
-3. 与PDF文件相对于的飞控算法开发过程已经上传至我的个人BiliBili账号，可以同时参考了解。这是我的账号：《https://space.bilibili.com/325400762?spm_id_from=333.1296.0.0》
+3. 与PDF文件相对于的飞控算法开发过程已经上传至我的个人BiliBili账号，可以同时参考了解。
+   这是我的Bibili账号：《https://space.bilibili.com/325400762?spm_id_from=333.1296.0.0》，遇到相关问题可以关注留言。
 
 4. 觉得有很大的帮助，可以顺手关注并点个Start，或者关注下B站账号，让更多对他们有用的人看到并减少一些麻烦！
